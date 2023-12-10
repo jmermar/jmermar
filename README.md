@@ -2,6 +2,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
   
 # José Meroño Martínez
+IT Engineer vy University of Murcia (Spain) with experience in web development and interest in game development and computer graphics.
+
 ## Main Interests
 <p style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64"/>
