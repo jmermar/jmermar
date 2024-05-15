@@ -1,32 +1,23 @@
 <p align="center">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
   
 # José Meroño Martínez
-IT Engineer vy University of Murcia (Spain) with experience in web development and interest in game development and computer graphics.
+IT Engineer by University of Murcia.
 
-## Main Interests
-<p style="display:flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/>
-</p>
+🌐 [jmermar.github.com](jmermar.github.com)
 
-## Proficient
-<p style="display:flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="64"/>
-</p>
+📫 josesmerono@gmail.com
 
-## Basic Knowledge
-<p style="display:flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/>
+## About me
+
+```javascript
+const JoseMerono = {
+  languages: ["C++", "Java", "Javascript"],
+  interest: ["Games", "Web", "Computer Graphics", "Computer Vision"],
+  technologies: {
+    graphics: ["OpenGL", "Vulkan"],
+    web: ["NodeJS", "Spring", "ReactJS"],
+    databases: ["MongoDB", "PostgreeSQL"]
+  }
+};
+```
 </p>
