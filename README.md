@@ -3,7 +3,7 @@
 # José Meroño Martínez
 IT Engineer by University of Murcia.
 
-🌐 [jmermar.github.com](jmermar.github.com)
+🌐 [jmermar.github.com](http://jmermar.github.com)
 
 📫 josesmerono@gmail.com
 
