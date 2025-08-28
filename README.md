@@ -4,7 +4,7 @@
 IT Engineer by University of Murcia.
 
 📫 josesmerono@gmail.com
-https://www.jmermar.github.io/jmermar-site
+[Personal site](https://www.jmermar.github.io/jmermar-site)
 
 ## About me
 
